@@ -53,7 +53,7 @@ section {
 }
 
 .section {
-  transform: translate(-100%);
+  transform: translate(-100%) scale(0);
   transition: all 0.4s ease-in-out;
   background-color: var(--color-primary);
 }

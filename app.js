@@ -37,6 +37,13 @@ function PageTransitions() {
     element.classList.toggle ('light-mode')})
 
 }
+//  // Function to display the home page
+//  function displayHomePage() {
+//     // Code to display the home page content
+//     console.log(id.home);
+//   }
 
+//   // Trigger displayHomePage when the application loads
+//   window.addEventListener('load', displayHomePage);
 
 PageTransitions();
